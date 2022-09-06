@@ -7,7 +7,7 @@
 //		b) el total de ventas de un vendedor introducido por teclado en cada una de las zonas 
 //		c) el total de ventas de todos los representantes.
 
-//
+///
 algoritmo Ejercicio16Extra16Guia
 	Definir i,j,ventas,l Como Entero
 	Definir vende,zona,p Como cadena
